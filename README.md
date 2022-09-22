@@ -1,7 +1,6 @@
 Kullanılan Yapılar:
-Widgets
+<b>Widgets
 Material Design
 Restful API
 Bloc Pattern
-<pre>
 
