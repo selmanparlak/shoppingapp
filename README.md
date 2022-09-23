@@ -1,5 +1,5 @@
 ## Kullanılan Yapılar
-** Widgets**
+**Widgets**
 ** Material Design,
 ** Restful API,
 ** Bloc Pattern,
