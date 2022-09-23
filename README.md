@@ -1,6 +1,6 @@
 ## Kullanılan Yapılar
 **Widgets**
-** Material Design,
+**Material Design**
 ** Restful API,
 ** Bloc Pattern,
 ** Firebase Authentication
