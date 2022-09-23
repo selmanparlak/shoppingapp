@@ -3,7 +3,7 @@
 
 **Material Design**
 
-** Restful API,
+**Restful API**
 
 ** Bloc Pattern,
 
