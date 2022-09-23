@@ -6,7 +6,7 @@ Bloc Pattern,
 
 https://user-images.githubusercontent.com/67348445/191869893-b8bd42ee-eecd-494e-98c7-9c1a991914c8.mp4
 
-<img src="https://user-images.githubusercontent.com/67348445/191869826-e1661432-efff-4c5b-8985-245bbfa15c78.jpg" width="270" >
+<img src="https://user-images.githubusercontent.com/67348445/191869826-e1661432-efff-4c5b-8985-245bbfa15c78.jpg" width="285" >
 
 
 ![Detay](https://user-images.githubusercontent.com/67348445/191869830-7fcf722c-984f-4e8d-a4ca-fa8a332137bc.jpg)
